@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhang Mingyu"
-description              : "Master's student of 2023 at the School of Electronic and Communication Engineering, Sun Yat sen University(ShenZhen)"
+description              : "2023级硕士生"
 repository               : "Z-mingyu/Z-mingyu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhang Mingyu(张明宇)"
+  name             : "张明宇"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Sun Yat sen University"
-  location         : "ShenZhen, China"
+  bio              : "中山大学"
+  location         : "深圳, 中国"
   employer         :
   pubmed           : 
   googlescholar    : 
