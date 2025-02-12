@@ -38,15 +38,26 @@ redirect_from:
 </div>
 
 # 🎖 项目
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='images/fig.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.03</div><img src='images/fig.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[基于遥操作以及半自动化的智能护理](https://github.com/Z-mingyu/GraphHRNet)
+[基于遥操作的智慧病房](https://github.com/Z-mingyu/GraphHRNet)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='images/fig.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.09</div><img src='images/fig.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[仓储物流场景下多类物品遥操作灵巧抓取](https://github.com/Z-mingyu/GraphHRNet)
+
+</div>
+</div>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.12</div><img src='images/fig.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [2024深圳市智能机器人灵巧手大赛](https://github.com/Z-mingyu/GraphHRNet)
