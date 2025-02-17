@@ -41,7 +41,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.03</div><img src='images/fig.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[基于遥操作的智慧病房](https://github.com/Z-mingyu/GraphHRNet)
+[基于遥操作的智慧病房护理系统](https://github.com/Z-mingyu/GraphHRNet)
 
 </div>
 </div>
