@@ -46,7 +46,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.09</div><img src='images/fig.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.03</div><img src='images/fig2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [仓储物流场景下多类物品遥操作灵巧抓取](https://z-mingyu.github.io/Sendhui)
