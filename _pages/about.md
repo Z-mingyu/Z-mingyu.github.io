@@ -23,7 +23,7 @@ redirect_from:
 
 
 # 🔥 新闻
-- *2025.01*: &nbsp;🎉🎉 论文《3D Whole-body Pose Estimation Using Graph High-Resolution Network for Humanoid Robot Teleoperation》被ICRA2025接受.
+- *2025.01*: &nbsp;🎉🎉 论文《3D Whole-body Pose Estimation Using Graph High-Resolution Network for Humanoid Robot Teleoperation》被ICRA2025接收.
 - *2024.11*: &nbsp;🎉🎉 发明专利《基于图卷积高分辨率网络的三维人资姿态估计方法及装置》被授权. 
 
 # 📝 发表文章
@@ -37,7 +37,7 @@ redirect_from:
 </div>
 </div>
 
-# 🎖 项目&&竞赛
+# 🎖 项目、竞赛
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.03</div><img src='images/overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -49,7 +49,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.09</div><img src='images/fig.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[仓储物流场景下多类物品遥操作灵巧抓取](https://github.com/Z-mingyu/GraphHRNet)
+[仓储物流场景下多类物品遥操作灵巧抓取](https://z-mingyu.github.io/Sendhui)
 
 </div>
 </div>
