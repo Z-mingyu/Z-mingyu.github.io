@@ -55,10 +55,10 @@ redirect_from:
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.12</div><img src='images/fig.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.12</div><img src='images/fig3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[2024深圳市智能机器人灵巧手大赛](https://github.com/Z-mingyu/GraphHRNet)
+[2024深圳市智能机器人灵巧手大赛](https://z-mingyu.github.io/Dexteroushand/)
 
 </div>
 </div>
