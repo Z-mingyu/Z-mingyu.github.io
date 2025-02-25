@@ -31,7 +31,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='images/fig.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[3D Whole-body Pose Estimation Using Graph High-Resolution Network for Humanoid Robot Teleoperation](https://github.com/Z-mingyu/GraphHRNet)
+[3D Whole-body Pose Estimation Using Graph High-Resolution Network for Humanoid Robot Teleoperation](https://z-mingyu.github.io/Graph-HRNet/)
 
 **Mingyu Zhang**, Qing Gao, Yuanchuan Lai, Ye Zhang, Tao Chang, Yulan Guo
 </div>
