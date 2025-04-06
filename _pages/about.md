@@ -23,6 +23,8 @@ redirect_from:
 
 
 # 🔥 新闻
+- *2025.04*: &nbsp;🎉🎉 论文《HR-GCN: 2D-3D Whole-body Pose Estimation with High-Resolution Graph Convolutional Network From a Monocular Camera》被IEEE Sensors Journal接收.
+- *2025.02*: &nbsp;🎉🎉 发明专利《基于视觉的仿人机械手臂多模式遥操作抓取方法及系统》被授权. 
 - *2025.01*: &nbsp;🎉🎉 论文《3D Whole-body Pose Estimation Using Graph High-Resolution Network for Humanoid Robot Teleoperation》被ICRA2025接收.
 - *2024.11*: &nbsp;🎉🎉 发明专利《基于图卷积高分辨率网络的三维人资姿态估计方法及装置》被授权. 
 
