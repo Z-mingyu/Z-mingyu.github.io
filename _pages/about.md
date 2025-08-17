@@ -71,7 +71,6 @@ redirect_from:
 # 💻 实习
 - 2025.07 - 至今, [华为](https://www.huawei.com/cn/), 上海.
     - VLN(Vision-Language Navigation)项目:调研当前视觉语言导航领域的进展，并部署基于场景图表示的LLM零样本导航算法Unigoal 到Unitree Go1/Go2W 上，实现了根据目标名称，目标图片和目标环境文本描述三种类型的导航任务。
-    - VLA(Vision-Language Action)项目：利用松灵PiPER机械臂和硬件平台来部署Physical-Intelligence的openpi
-项目，微调基于DROID硬件平台训练的模型。
+    - VLA(Vision-Language Action) 项目：将基于 DROID 硬件平台预训练的π0-FAST模型成功迁移至松灵PiPER机械臂，并利用其核心的FAST（基于DCT压缩）tokenization进行微调，最终实现了对复杂灵巧任务的零样本自然语言指令控制。
 
 
