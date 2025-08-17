@@ -21,6 +21,9 @@ redirect_from:
 本科毕业于重庆邮电大学通信与信息工程学院通信工程专业。在学期间，多次获得学业奖学金。
 我的研究兴趣包括计算机视觉、机器人遥操作和具身智能。
 
+# 📖 教育经历
+- *2023.09 - 2025.04 (now)*, 硕士，电子与通信工程学院，中山大学，深圳。
+- *2019.09 - 2023.06*, 本科， 通信与信息工程学院， 重庆邮电大学，重庆。
 
 # 🔥 新闻
 - *2025.04*: &nbsp;🎉🎉 论文《HR-GCN: 2D-3D Whole-body Pose Estimation with High-Resolution Graph Convolutional Network From a Monocular Camera》被IEEE Sensors Journal接收.
@@ -65,7 +68,7 @@ redirect_from:
 </div>
 </div>
 
-# 📖 教育经历
-- *2023.09 - 2025.04 (now)*, 硕士，电子与通信工程学院，中山大学，深圳。
-- *2019.09 - 2023.06*, 本科， 通信与信息工程学院， 重庆邮电大学，重庆。
+# 💻 实习
+- *2025.07 - 至今, [华为](https://www.huawei.com/cn/), 上海.
+
 
